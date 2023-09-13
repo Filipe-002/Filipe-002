@@ -1,8 +1,5 @@
 ## E aí! Meu nome é Filipe! :)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe-002&rank_icon=github&theme=transparent&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-002&theme=transparent)](https://github.com/Filipe-002/github-readme-stats)
-
 <div>
   <img align="center" alt="Lipe-Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Lipe-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
